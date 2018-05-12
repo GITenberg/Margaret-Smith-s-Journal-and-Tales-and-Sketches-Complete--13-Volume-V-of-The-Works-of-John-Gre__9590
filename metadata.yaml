@@ -1,5 +1,8 @@
 _repo: Margaret-Smith-s-Journal-and-Tales-and-Sketches-Complete--13-Volume-V-of-The-Works-of-John-Gre__9590
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Whittier, John Greenleaf
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/455
     wikipedia: http://en.wikipedia.org/wiki/John_Greenleaf_Whittier
 description: Includes eBooks 9587-9589.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9590#Margaret-Smith-s-Journal-and-Tales-and-Sketches-Complete--13-Volume-V-of-The-Works-of-John-Gre_
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
 identifiers:
